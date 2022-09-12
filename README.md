@@ -2,6 +2,6 @@
 
 Mi primer repositorio :)
 
-I love :cat:, :tree:, :rain:
+I love :cat:, :tree:,
 
 I also love :candy:, :books:, :bird:
